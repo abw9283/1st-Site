@@ -32,6 +32,7 @@ GRVC - A planting of coconut trees
   </iframe>
 </div>
 
+
 The data is collected from the Survey Department of Sri Lanka and contains around 57,000 data points. Multiple types of feature codes can be observed, covering road infrastructure, commercial and public buildings, and geographic and topographic features such as lakes, reservoirs, water tanks, mountains and plains. The dataset contains data points gathered as early as 1994 and was last updated on the 14th of September 2026.
 
 During my initial exploration of the data, I noticed that there were not many data points relating to agriculture and cultivation. Sri Lanka is well known for its high-grade tea, but surprisingly, the tea plant is not native to the island. It was introduced during British rule and was later cultivated mainly in the wet zone and central highlands of the country. To support the commercialisation of the crop, the British brought labour from southern India, particularly from the regions of Tamil Nadu and Kerala, where overseas labour was relatively cheaper. This was also influenced by resistance from local workers to working under the colonial system.
