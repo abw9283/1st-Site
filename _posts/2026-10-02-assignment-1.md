@@ -7,12 +7,14 @@ tags:
   - F26
 ---
 
-Write your intro text here.
+Write a sentence or two about your map here.
 
 <div style="width:100%; height:70vh;">
   <iframe
-    src="{{ '/assets/maps/https://9b9703d593294e639e726afe274bb9ae.app.posit.cloud/file_show?path=%2Fcloud%2Fproject%2FLB_featuremap.html&show=1' | relative_url }}"
+    src="{{ '/assets/Maps/LK_featuremap.html' | relative_url }}"
     style="width:100%; height:100%; border:0;"
     loading="lazy">
   </iframe>
 </div>
+
+<img src="{{ '/assets/images/IMG_1928.JPG' | relative_url }}" style="zoom:50%;" />
