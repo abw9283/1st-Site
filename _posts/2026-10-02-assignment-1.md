@@ -70,3 +70,5 @@ The lack of datapoints might be attributed to the source dataset used by GeoName
 This made me think about Kitchin and Lauriault’s argument that data should not simply be viewed as neutral or objective representations of the world. Data are “situated, contingent, relational, and framed,” meaning that how they are collected and classified shapes what they represent. The absence of agricultural datapoints therefore highlights the limitations of the dataset rather than necessarily indicating that the plantations do not exist.
 
 This workflow could also be useful in future research. For example, I could map Sri Lanka’s roads and railways alongside agricultural regions to investigate whether infrastructure availability is related to economic prosperity. Comparing infrastructure with indicators such as agricultural output, employment or income could reveal patterns that could be explored further in an economics research project or capstone.
+
+READY FOR GRADING
