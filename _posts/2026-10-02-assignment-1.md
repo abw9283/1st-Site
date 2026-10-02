@@ -18,7 +18,9 @@ Agriculture in Sri Lanka dates back over 2,500 years, with paddy being its main 
 The following feature codes are being studied:
 
 ESTT - An estate which specialises in growing tea bushes
+
 ESTR - An estate which specialises in growing and tapping rubber trees
+
 GRVC - A planting of coconut trees
 
 
@@ -40,9 +42,30 @@ Along with the introduction and expansion of tea, roads and especially railway i
 
 Ironically, some of these same railway tracks were damaged by landslides caused by heavy and continuous rain last December. They were reconstructed and reopened to the public on the 2nd of October 2026 (Today), allowing travel again from the central hills towards the capital and other parts of the country. Personally, this is one of my favourite things to do when I am back home, and every year I make sure to take this train ride. It goes through the mountains and tea estates, passing dairy farms, waterfalls and lakes along the way. It is one of the most scenic trips that you can take in Sri Lanka.
 
-<video controls style="width:100%;">
-  <source src="{{ '/assets/Videos/myvideo.mp4' | relative_url }}" type="video/mp4">
+<video controls style="width:100%; margin-bottom:20px;">
+  <source src="{{ '/assets/Videos/download.mp4' | relative_url }}" type="video/mp4">
 </video>
 
+As depicted in the map, the blue dots, which represent 240 locations, are heavily concentrated in the southwestern and central parts of the country. The combination of the clouds trapped by the central hills, higher levels of rainfall and colder climate has allowed tea to grow successfully in this region. However, the dataset has failed to capture some major tea estates in the country such as Pedro and Watalawala estates. Because of this, I believe the number of data points shown on the map is significantly lower than the actual number of tea plantations in the country.
+
+Additionally, data on the land area represented by each point is not available. I think this is an important metric for understanding the size of the tea industry, as simply counting the number of estates does not tell us how large each plantation is. The tea industry accounts for around 12–17% of the country's total merchandise and export earnings.
+
+Moving on to rubber, it was another crop that was in high demand during the mid-19th and early 20th centuries, especially with the growth of the automobile industry and later during World War II, when rubber was needed for military vehicles, tyres, aircraft equipment and other supplies. After the 1950s, demand increasingly shifted towards synthetic rubber, reducing the reliance on natural rubber. However, rubber tapping remains an important industry in Sri Lanka today.
+
+For the British, Ceylon was largely a colony of extraction. To make the most out of the land, they planted crops that were in high demand at the time and developed the infrastructure required to support their commercialisation. One of the arguments made in favour of colonialism is that these extractive practices also resulted in infrastructure that continues to be used today, not only in Sri Lanka but across many parts of South Asia.
+
+Rubber estates are represented by purple dots in the interactive map above. The data appears to be more comprehensive in terms of the number of estates, with 676 estates being identified. Similar to the tea estates, the majority are concentrated in the southwestern and central regions of the country, even though the two crops have differences in their structure and cultivation and require somewhat different conditions to grow.
+
+The third crop I wanted to study was coconut. It is one of the plants where almost every part, from its stem to its leaves, can be utilised. The body of the tree is used for construction and carpentry, while the milk extracted from the coconut is used in almost every type of curry made in Sri Lanka. The shell can be used as firewood and, through more advanced processes, is used to produce activated carbon. Activated carbon has applications in gold recovery, edible oil refining, pharmaceuticals, water and wastewater treatment and other industries. The husk is used to make ropes and fibres, while the leaves and branches can be used to make thatched roofs.
+
+I come from a family of cultivators. My grandparents grew paddy, and my dad has taken over from them by cultivating coconuts. During the last two months of my summer break, I was involved in the cultivation with my dad, and we were able to expand our cultivation by planting another 200-odd plants while I maintained my own plant nursery.
 
 <img src="{{ '/assets/images/IMG_1928.JPG' | relative_url }}" style="zoom:50%;" />
+
+Unfortunately, the dataset has only recognised six data points in the entire country as coconut groves, which I believe is significantly understated. If you were to travel along the coast of Sri Lanka, you would see rows of coconut trees, with particularly large concentrations along the southern coastal belt. In Sri Lanka, a large share of the national coconut harvest comes from what is known as the coconut triangle, which is formed by the districts of Kurunegala, Puttalam and Gampaha and accounts for around 70% of the national yield. Interestingly, none of these three districts are represented by coconut grove datapoints in the dataset.
+
+The lack of datapoints might be attributed to the source dataset used by GeoNames from the Survey Department. The latest census conducted by the Department of Census and Statistics has much more detailed information on the number of plantations for each of these three crops across the 25 districts of the country.
+
+This made me think about Kitchin and Lauriault’s argument that data should not simply be viewed as neutral or objective representations of the world. Data are “situated, contingent, relational, and framed,” meaning that how they are collected and classified shapes what they represent. The absence of agricultural datapoints therefore highlights the limitations of the dataset rather than necessarily indicating that the plantations do not exist.
+
+This workflow could also be useful in future research. For example, I could map Sri Lanka’s roads and railways alongside agricultural regions to investigate whether infrastructure availability is related to economic prosperity. Comparing infrastructure with indicators such as agricultural output, employment or income could reveal patterns that could be explored further in an economics research project or capstone.
