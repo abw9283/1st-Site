@@ -41,7 +41,7 @@ Along with the introduction and expansion of tea, roads and especially railway i
 Ironically, some of these same railway tracks were damaged by landslides caused by heavy and continuous rain last December. They were reconstructed and reopened to the public on the 2nd of October 2026 (Today), allowing travel again from the central hills towards the capital and other parts of the country. Personally, this is one of my favourite things to do when I am back home, and every year I make sure to take this train ride. It goes through the mountains and tea estates, passing dairy farms, waterfalls and lakes along the way. It is one of the most scenic trips that you can take in Sri Lanka.
 
 <video controls style="width:100%;">
-  <source src="{{ '/assets/videos/myvideo.mp4' | relative_url }}" type="video/mp4">
+  <source src="{{ '/assets/Videos/myvideo.mp4' | relative_url }}" type="video/mp4">
 </video>
 
 
