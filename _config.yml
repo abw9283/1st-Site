@@ -60,7 +60,7 @@ plugins:
 author:
   name   : Akila Weerasinghe
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "A very amature corder."
+  bio    : "A very amature coder."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
