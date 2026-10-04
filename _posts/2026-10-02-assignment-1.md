@@ -71,4 +71,6 @@ This made me think about Kitchin and Lauriault’s argument that data should not
 
 This workflow could also be useful in future research. For example, I could map Sri Lanka’s roads and railways alongside agricultural regions to investigate whether infrastructure availability is related to economic prosperity. Comparing infrastructure with indicators such as agricultural output, employment or income could reveal patterns that could be explored further in an economics research project or capstone.
 
+AI usage: command to add a video to the post 
+
 READY FOR GRADING
